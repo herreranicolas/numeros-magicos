@@ -16,6 +16,7 @@ form.addEventListener("submit", (e) => {
 
 function comenzarJuego() {
   numeroRandom = Math.floor(Math.random() * (10 + 1 - 1) + 1);
+  titulo.innerHTML = "¡Números Mágicos!";
   texto.innerHTML =
     "La maquina eligió un número del 1 al 10. ¿Podrás adivinarlo?";
   main.removeChild(btnComenzarJuego);
