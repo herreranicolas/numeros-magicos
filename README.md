@@ -4,7 +4,7 @@ En este trabajo práctico aplicamos todos los conceptos de JavaScript y comenzam
 
 ## Live demo
 
--[Numeros Magicos](https://herreranicolas.github.io/numeros-magicos/)
+- [Números Mágicos](https://herreranicolas.github.io/numeros-magicos/)
 
 ## Librerias / herramientas 
 
