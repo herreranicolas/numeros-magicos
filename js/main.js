@@ -9,9 +9,10 @@ let numeroUsuario = 0;
 let texto = document.createElement("p");
 
 btnComenzarJuego.addEventListener("click", comenzarJuego);
-btnAdivinar.addEventListener("click", adivinarNumero);
+
 form.addEventListener("submit", (e) => {
   e.preventDefault();
+  adivinarNumero()
 });
 
 function comenzarJuego() {
